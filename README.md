@@ -1,7 +1,6 @@
 # Matplotlib no 177 
 
-python example
-
+To learn about python programming .PLease check out the link bellow:-
 https://pythonprogramminglanguage.com
 
 
